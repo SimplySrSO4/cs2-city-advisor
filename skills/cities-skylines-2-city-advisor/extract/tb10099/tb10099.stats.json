@@ -1,0 +1,1728 @@
+{
+ "pages_ocr": 429,
+ "total_clean_chars": 302623,
+ "total_clean_cjk": 218762,
+ "mean_chars_per_page": 705.4,
+ "empty_pages": [
+  "p0011.txt"
+ ],
+ "empty_count": 1,
+ "per_page": [
+  {
+   "file": "p0001.txt",
+   "chars": 151
+  },
+  {
+   "file": "p0002.txt",
+   "chars": 165
+  },
+  {
+   "file": "p0003.txt",
+   "chars": 173
+  },
+  {
+   "file": "p0004.txt",
+   "chars": 647
+  },
+  {
+   "file": "p0005.txt",
+   "chars": 720
+  },
+  {
+   "file": "p0006.txt",
+   "chars": 689
+  },
+  {
+   "file": "p0007.txt",
+   "chars": 23
+  },
+  {
+   "file": "p0008.txt",
+   "chars": 410
+  },
+  {
+   "file": "p0009.txt",
+   "chars": 504
+  },
+  {
+   "file": "p0010.txt",
+   "chars": 350
+  },
+  {
+   "file": "p0011.txt",
+   "chars": 0
+  },
+  {
+   "file": "p0012.txt",
+   "chars": 611
+  },
+  {
+   "file": "p0013.txt",
+   "chars": 349
+  },
+  {
+   "file": "p0014.txt",
+   "chars": 645
+  },
+  {
+   "file": "p0015.txt",
+   "chars": 773
+  },
+  {
+   "file": "p0016.txt",
+   "chars": 173
+  },
+  {
+   "file": "p0017.txt",
+   "chars": 616
+  },
+  {
+   "file": "p0018.txt",
+   "chars": 888
+  },
+  {
+   "file": "p0019.txt",
+   "chars": 666
+  },
+  {
+   "file": "p0020.txt",
+   "chars": 830
+  },
+  {
+   "file": "p0021.txt",
+   "chars": 730
+  },
+  {
+   "file": "p0022.txt",
+   "chars": 789
+  },
+  {
+   "file": "p0023.txt",
+   "chars": 707
+  },
+  {
+   "file": "p0024.txt",
+   "chars": 737
+  },
+  {
+   "file": "p0025.txt",
+   "chars": 783
+  },
+  {
+   "file": "p0026.txt",
+   "chars": 760
+  },
+  {
+   "file": "p0027.txt",
+   "chars": 847
+  },
+  {
+   "file": "p0028.txt",
+   "chars": 674
+  },
+  {
+   "file": "p0029.txt",
+   "chars": 669
+  },
+  {
+   "file": "p0030.txt",
+   "chars": 757
+  },
+  {
+   "file": "p0031.txt",
+   "chars": 788
+  },
+  {
+   "file": "p0032.txt",
+   "chars": 722
+  },
+  {
+   "file": "p0033.txt",
+   "chars": 528
+  },
+  {
+   "file": "p0034.txt",
+   "chars": 587
+  },
+  {
+   "file": "p0035.txt",
+   "chars": 720
+  },
+  {
+   "file": "p0036.txt",
+   "chars": 647
+  },
+  {
+   "file": "p0037.txt",
+   "chars": 652
+  },
+  {
+   "file": "p0038.txt",
+   "chars": 763
+  },
+  {
+   "file": "p0039.txt",
+   "chars": 681
+  },
+  {
+   "file": "p0040.txt",
+   "chars": 684
+  },
+  {
+   "file": "p0041.txt",
+   "chars": 350
+  },
+  {
+   "file": "p0042.txt",
+   "chars": 710
+  },
+  {
+   "file": "p0043.txt",
+   "chars": 512
+  },
+  {
+   "file": "p0044.txt",
+   "chars": 615
+  },
+  {
+   "file": "p0045.txt",
+   "chars": 580
+  },
+  {
+   "file": "p0046.txt",
+   "chars": 606
+  },
+  {
+   "file": "p0047.txt",
+   "chars": 745
+  },
+  {
+   "file": "p0048.txt",
+   "chars": 634
+  },
+  {
+   "file": "p0049.txt",
+   "chars": 673
+  },
+  {
+   "file": "p0050.txt",
+   "chars": 751
+  },
+  {
+   "file": "p0051.txt",
+   "chars": 191
+  },
+  {
+   "file": "p0052.txt",
+   "chars": 305
+  },
+  {
+   "file": "p0053.txt",
+   "chars": 630
+  },
+  {
+   "file": "p0054.txt",
+   "chars": 674
+  },
+  {
+   "file": "p0055.txt",
+   "chars": 742
+  },
+  {
+   "file": "p0056.txt",
+   "chars": 803
+  },
+  {
+   "file": "p0057.txt",
+   "chars": 223
+  },
+  {
+   "file": "p0058.txt",
+   "chars": 101
+  },
+  {
+   "file": "p0059.txt",
+   "chars": 330
+  },
+  {
+   "file": "p0060.txt",
+   "chars": 736
+  },
+  {
+   "file": "p0061.txt",
+   "chars": 430
+  },
+  {
+   "file": "p0062.txt",
+   "chars": 243
+  },
+  {
+   "file": "p0063.txt",
+   "chars": 251
+  },
+  {
+   "file": "p0064.txt",
+   "chars": 204
+  },
+  {
+   "file": "p0065.txt",
+   "chars": 584
+  },
+  {
+   "file": "p0066.txt",
+   "chars": 672
+  },
+  {
+   "file": "p0067.txt",
+   "chars": 681
+  },
+  {
+   "file": "p0068.txt",
+   "chars": 259
+  },
+  {
+   "file": "p0069.txt",
+   "chars": 189
+  },
+  {
+   "file": "p0070.txt",
+   "chars": 731
+  },
+  {
+   "file": "p0071.txt",
+   "chars": 848
+  },
+  {
+   "file": "p0072.txt",
+   "chars": 710
+  },
+  {
+   "file": "p0073.txt",
+   "chars": 715
+  },
+  {
+   "file": "p0074.txt",
+   "chars": 737
+  },
+  {
+   "file": "p0075.txt",
+   "chars": 255
+  },
+  {
+   "file": "p0076.txt",
+   "chars": 663
+  },
+  {
+   "file": "p0077.txt",
+   "chars": 702
+  },
+  {
+   "file": "p0078.txt",
+   "chars": 736
+  },
+  {
+   "file": "p0079.txt",
+   "chars": 787
+  },
+  {
+   "file": "p0080.txt",
+   "chars": 761
+  },
+  {
+   "file": "p0081.txt",
+   "chars": 504
+  },
+  {
+   "file": "p0082.txt",
+   "chars": 625
+  },
+  {
+   "file": "p0083.txt",
+   "chars": 786
+  },
+  {
+   "file": "p0084.txt",
+   "chars": 754
+  },
+  {
+   "file": "p0085.txt",
+   "chars": 599
+  },
+  {
+   "file": "p0086.txt",
+   "chars": 541
+  },
+  {
+   "file": "p0087.txt",
+   "chars": 567
+  },
+  {
+   "file": "p0088.txt",
+   "chars": 483
+  },
+  {
+   "file": "p0089.txt",
+   "chars": 742
+  },
+  {
+   "file": "p0090.txt",
+   "chars": 713
+  },
+  {
+   "file": "p0091.txt",
+   "chars": 295
+  },
+  {
+   "file": "p0092.txt",
+   "chars": 576
+  },
+  {
+   "file": "p0093.txt",
+   "chars": 498
+  },
+  {
+   "file": "p0094.txt",
+   "chars": 718
+  },
+  {
+   "file": "p0095.txt",
+   "chars": 587
+  },
+  {
+   "file": "p0096.txt",
+   "chars": 410
+  },
+  {
+   "file": "p0097.txt",
+   "chars": 501
+  },
+  {
+   "file": "p0098.txt",
+   "chars": 540
+  },
+  {
+   "file": "p0099.txt",
+   "chars": 297
+  },
+  {
+   "file": "p0100.txt",
+   "chars": 570
+  },
+  {
+   "file": "p0101.txt",
+   "chars": 850
+  },
+  {
+   "file": "p0102.txt",
+   "chars": 724
+  },
+  {
+   "file": "p0103.txt",
+   "chars": 737
+  },
+  {
+   "file": "p0104.txt",
+   "chars": 106
+  },
+  {
+   "file": "p0105.txt",
+   "chars": 524
+  },
+  {
+   "file": "p0106.txt",
+   "chars": 470
+  },
+  {
+   "file": "p0107.txt",
+   "chars": 373
+  },
+  {
+   "file": "p0108.txt",
+   "chars": 621
+  },
+  {
+   "file": "p0109.txt",
+   "chars": 767
+  },
+  {
+   "file": "p0110.txt",
+   "chars": 725
+  },
+  {
+   "file": "p0111.txt",
+   "chars": 793
+  },
+  {
+   "file": "p0112.txt",
+   "chars": 451
+  },
+  {
+   "file": "p0113.txt",
+   "chars": 394
+  },
+  {
+   "file": "p0114.txt",
+   "chars": 448
+  },
+  {
+   "file": "p0115.txt",
+   "chars": 380
+  },
+  {
+   "file": "p0116.txt",
+   "chars": 282
+  },
+  {
+   "file": "p0117.txt",
+   "chars": 296
+  },
+  {
+   "file": "p0118.txt",
+   "chars": 447
+  },
+  {
+   "file": "p0119.txt",
+   "chars": 299
+  },
+  {
+   "file": "p0120.txt",
+   "chars": 259
+  },
+  {
+   "file": "p0121.txt",
+   "chars": 777
+  },
+  {
+   "file": "p0122.txt",
+   "chars": 798
+  },
+  {
+   "file": "p0123.txt",
+   "chars": 798
+  },
+  {
+   "file": "p0124.txt",
+   "chars": 980
+  },
+  {
+   "file": "p0125.txt",
+   "chars": 949
+  },
+  {
+   "file": "p0126.txt",
+   "chars": 928
+  },
+  {
+   "file": "p0127.txt",
+   "chars": 877
+  },
+  {
+   "file": "p0128.txt",
+   "chars": 739
+  },
+  {
+   "file": "p0129.txt",
+   "chars": 650
+  },
+  {
+   "file": "p0130.txt",
+   "chars": 811
+  },
+  {
+   "file": "p0131.txt",
+   "chars": 315
+  },
+  {
+   "file": "p0132.txt",
+   "chars": 802
+  },
+  {
+   "file": "p0133.txt",
+   "chars": 837
+  },
+  {
+   "file": "p0134.txt",
+   "chars": 810
+  },
+  {
+   "file": "p0135.txt",
+   "chars": 844
+  },
+  {
+   "file": "p0136.txt",
+   "chars": 998
+  },
+  {
+   "file": "p0137.txt",
+   "chars": 274
+  },
+  {
+   "file": "p0138.txt",
+   "chars": 888
+  },
+  {
+   "file": "p0139.txt",
+   "chars": 888
+  },
+  {
+   "file": "p0140.txt",
+   "chars": 839
+  },
+  {
+   "file": "p0141.txt",
+   "chars": 980
+  },
+  {
+   "file": "p0142.txt",
+   "chars": 849
+  },
+  {
+   "file": "p0143.txt",
+   "chars": 813
+  },
+  {
+   "file": "p0144.txt",
+   "chars": 980
+  },
+  {
+   "file": "p0145.txt",
+   "chars": 679
+  },
+  {
+   "file": "p0146.txt",
+   "chars": 848
+  },
+  {
+   "file": "p0147.txt",
+   "chars": 654
+  },
+  {
+   "file": "p0148.txt",
+   "chars": 786
+  },
+  {
+   "file": "p0149.txt",
+   "chars": 717
+  },
+  {
+   "file": "p0150.txt",
+   "chars": 871
+  },
+  {
+   "file": "p0151.txt",
+   "chars": 742
+  },
+  {
+   "file": "p0152.txt",
+   "chars": 996
+  },
+  {
+   "file": "p0153.txt",
+   "chars": 893
+  },
+  {
+   "file": "p0154.txt",
+   "chars": 841
+  },
+  {
+   "file": "p0155.txt",
+   "chars": 880
+  },
+  {
+   "file": "p0156.txt",
+   "chars": 832
+  },
+  {
+   "file": "p0157.txt",
+   "chars": 1004
+  },
+  {
+   "file": "p0158.txt",
+   "chars": 811
+  },
+  {
+   "file": "p0159.txt",
+   "chars": 801
+  },
+  {
+   "file": "p0160.txt",
+   "chars": 964
+  },
+  {
+   "file": "p0161.txt",
+   "chars": 897
+  },
+  {
+   "file": "p0162.txt",
+   "chars": 918
+  },
+  {
+   "file": "p0163.txt",
+   "chars": 780
+  },
+  {
+   "file": "p0164.txt",
+   "chars": 943
+  },
+  {
+   "file": "p0165.txt",
+   "chars": 832
+  },
+  {
+   "file": "p0166.txt",
+   "chars": 993
+  },
+  {
+   "file": "p0167.txt",
+   "chars": 825
+  },
+  {
+   "file": "p0168.txt",
+   "chars": 783
+  },
+  {
+   "file": "p0169.txt",
+   "chars": 838
+  },
+  {
+   "file": "p0170.txt",
+   "chars": 868
+  },
+  {
+   "file": "p0171.txt",
+   "chars": 869
+  },
+  {
+   "file": "p0172.txt",
+   "chars": 881
+  },
+  {
+   "file": "p0173.txt",
+   "chars": 796
+  },
+  {
+   "file": "p0174.txt",
+   "chars": 857
+  },
+  {
+   "file": "p0175.txt",
+   "chars": 769
+  },
+  {
+   "file": "p0176.txt",
+   "chars": 900
+  },
+  {
+   "file": "p0177.txt",
+   "chars": 852
+  },
+  {
+   "file": "p0178.txt",
+   "chars": 739
+  },
+  {
+   "file": "p0179.txt",
+   "chars": 817
+  },
+  {
+   "file": "p0180.txt",
+   "chars": 744
+  },
+  {
+   "file": "p0181.txt",
+   "chars": 754
+  },
+  {
+   "file": "p0182.txt",
+   "chars": 706
+  },
+  {
+   "file": "p0183.txt",
+   "chars": 756
+  },
+  {
+   "file": "p0184.txt",
+   "chars": 525
+  },
+  {
+   "file": "p0185.txt",
+   "chars": 463
+  },
+  {
+   "file": "p0186.txt",
+   "chars": 167
+  },
+  {
+   "file": "p0187.txt",
+   "chars": 582
+  },
+  {
+   "file": "p0188.txt",
+   "chars": 399
+  },
+  {
+   "file": "p0189.txt",
+   "chars": 456
+  },
+  {
+   "file": "p0190.txt",
+   "chars": 285
+  },
+  {
+   "file": "p0191.txt",
+   "chars": 424
+  },
+  {
+   "file": "p0192.txt",
+   "chars": 320
+  },
+  {
+   "file": "p0193.txt",
+   "chars": 234
+  },
+  {
+   "file": "p0194.txt",
+   "chars": 376
+  },
+  {
+   "file": "p0195.txt",
+   "chars": 514
+  },
+  {
+   "file": "p0196.txt",
+   "chars": 169
+  },
+  {
+   "file": "p0197.txt",
+   "chars": 425
+  },
+  {
+   "file": "p0198.txt",
+   "chars": 806
+  },
+  {
+   "file": "p0199.txt",
+   "chars": 842
+  },
+  {
+   "file": "p0200.txt",
+   "chars": 813
+  },
+  {
+   "file": "p0201.txt",
+   "chars": 778
+  },
+  {
+   "file": "p0202.txt",
+   "chars": 793
+  },
+  {
+   "file": "p0203.txt",
+   "chars": 780
+  },
+  {
+   "file": "p0204.txt",
+   "chars": 759
+  },
+  {
+   "file": "p0205.txt",
+   "chars": 755
+  },
+  {
+   "file": "p0206.txt",
+   "chars": 784
+  },
+  {
+   "file": "p0207.txt",
+   "chars": 809
+  },
+  {
+   "file": "p0208.txt",
+   "chars": 823
+  },
+  {
+   "file": "p0209.txt",
+   "chars": 813
+  },
+  {
+   "file": "p0210.txt",
+   "chars": 793
+  },
+  {
+   "file": "p0211.txt",
+   "chars": 793
+  },
+  {
+   "file": "p0212.txt",
+   "chars": 763
+  },
+  {
+   "file": "p0213.txt",
+   "chars": 739
+  },
+  {
+   "file": "p0214.txt",
+   "chars": 771
+  },
+  {
+   "file": "p0215.txt",
+   "chars": 832
+  },
+  {
+   "file": "p0216.txt",
+   "chars": 763
+  },
+  {
+   "file": "p0217.txt",
+   "chars": 818
+  },
+  {
+   "file": "p0218.txt",
+   "chars": 812
+  },
+  {
+   "file": "p0219.txt",
+   "chars": 793
+  },
+  {
+   "file": "p0220.txt",
+   "chars": 802
+  },
+  {
+   "file": "p0221.txt",
+   "chars": 507
+  },
+  {
+   "file": "p0222.txt",
+   "chars": 516
+  },
+  {
+   "file": "p0223.txt",
+   "chars": 776
+  },
+  {
+   "file": "p0224.txt",
+   "chars": 757
+  },
+  {
+   "file": "p0225.txt",
+   "chars": 475
+  },
+  {
+   "file": "p0226.txt",
+   "chars": 852
+  },
+  {
+   "file": "p0227.txt",
+   "chars": 653
+  },
+  {
+   "file": "p0228.txt",
+   "chars": 934
+  },
+  {
+   "file": "p0229.txt",
+   "chars": 778
+  },
+  {
+   "file": "p0230.txt",
+   "chars": 874
+  },
+  {
+   "file": "p0231.txt",
+   "chars": 784
+  },
+  {
+   "file": "p0232.txt",
+   "chars": 762
+  },
+  {
+   "file": "p0233.txt",
+   "chars": 831
+  },
+  {
+   "file": "p0234.txt",
+   "chars": 820
+  },
+  {
+   "file": "p0235.txt",
+   "chars": 807
+  },
+  {
+   "file": "p0236.txt",
+   "chars": 854
+  },
+  {
+   "file": "p0237.txt",
+   "chars": 786
+  },
+  {
+   "file": "p0238.txt",
+   "chars": 836
+  },
+  {
+   "file": "p0239.txt",
+   "chars": 873
+  },
+  {
+   "file": "p0240.txt",
+   "chars": 874
+  },
+  {
+   "file": "p0241.txt",
+   "chars": 760
+  },
+  {
+   "file": "p0242.txt",
+   "chars": 815
+  },
+  {
+   "file": "p0243.txt",
+   "chars": 635
+  },
+  {
+   "file": "p0244.txt",
+   "chars": 854
+  },
+  {
+   "file": "p0245.txt",
+   "chars": 727
+  },
+  {
+   "file": "p0246.txt",
+   "chars": 788
+  },
+  {
+   "file": "p0247.txt",
+   "chars": 794
+  },
+  {
+   "file": "p0248.txt",
+   "chars": 818
+  },
+  {
+   "file": "p0249.txt",
+   "chars": 851
+  },
+  {
+   "file": "p0250.txt",
+   "chars": 802
+  },
+  {
+   "file": "p0251.txt",
+   "chars": 825
+  },
+  {
+   "file": "p0252.txt",
+   "chars": 783
+  },
+  {
+   "file": "p0253.txt",
+   "chars": 822
+  },
+  {
+   "file": "p0254.txt",
+   "chars": 753
+  },
+  {
+   "file": "p0255.txt",
+   "chars": 766
+  },
+  {
+   "file": "p0256.txt",
+   "chars": 786
+  },
+  {
+   "file": "p0257.txt",
+   "chars": 828
+  },
+  {
+   "file": "p0258.txt",
+   "chars": 747
+  },
+  {
+   "file": "p0259.txt",
+   "chars": 795
+  },
+  {
+   "file": "p0260.txt",
+   "chars": 786
+  },
+  {
+   "file": "p0261.txt",
+   "chars": 812
+  },
+  {
+   "file": "p0262.txt",
+   "chars": 870
+  },
+  {
+   "file": "p0263.txt",
+   "chars": 831
+  },
+  {
+   "file": "p0264.txt",
+   "chars": 888
+  },
+  {
+   "file": "p0265.txt",
+   "chars": 843
+  },
+  {
+   "file": "p0266.txt",
+   "chars": 768
+  },
+  {
+   "file": "p0267.txt",
+   "chars": 816
+  },
+  {
+   "file": "p0268.txt",
+   "chars": 791
+  },
+  {
+   "file": "p0269.txt",
+   "chars": 824
+  },
+  {
+   "file": "p0270.txt",
+   "chars": 771
+  },
+  {
+   "file": "p0271.txt",
+   "chars": 756
+  },
+  {
+   "file": "p0272.txt",
+   "chars": 834
+  },
+  {
+   "file": "p0273.txt",
+   "chars": 890
+  },
+  {
+   "file": "p0274.txt",
+   "chars": 803
+  },
+  {
+   "file": "p0275.txt",
+   "chars": 869
+  },
+  {
+   "file": "p0276.txt",
+   "chars": 913
+  },
+  {
+   "file": "p0277.txt",
+   "chars": 899
+  },
+  {
+   "file": "p0278.txt",
+   "chars": 804
+  },
+  {
+   "file": "p0279.txt",
+   "chars": 754
+  },
+  {
+   "file": "p0280.txt",
+   "chars": 631
+  },
+  {
+   "file": "p0281.txt",
+   "chars": 821
+  },
+  {
+   "file": "p0282.txt",
+   "chars": 862
+  },
+  {
+   "file": "p0283.txt",
+   "chars": 815
+  },
+  {
+   "file": "p0284.txt",
+   "chars": 803
+  },
+  {
+   "file": "p0285.txt",
+   "chars": 815
+  },
+  {
+   "file": "p0286.txt",
+   "chars": 795
+  },
+  {
+   "file": "p0287.txt",
+   "chars": 828
+  },
+  {
+   "file": "p0288.txt",
+   "chars": 857
+  },
+  {
+   "file": "p0289.txt",
+   "chars": 879
+  },
+  {
+   "file": "p0290.txt",
+   "chars": 800
+  },
+  {
+   "file": "p0291.txt",
+   "chars": 894
+  },
+  {
+   "file": "p0292.txt",
+   "chars": 786
+  },
+  {
+   "file": "p0293.txt",
+   "chars": 894
+  },
+  {
+   "file": "p0294.txt",
+   "chars": 848
+  },
+  {
+   "file": "p0295.txt",
+   "chars": 801
+  },
+  {
+   "file": "p0296.txt",
+   "chars": 614
+  },
+  {
+   "file": "p0297.txt",
+   "chars": 840
+  },
+  {
+   "file": "p0298.txt",
+   "chars": 792
+  },
+  {
+   "file": "p0299.txt",
+   "chars": 805
+  },
+  {
+   "file": "p0300.txt",
+   "chars": 804
+  },
+  {
+   "file": "p0301.txt",
+   "chars": 815
+  },
+  {
+   "file": "p0302.txt",
+   "chars": 813
+  },
+  {
+   "file": "p0303.txt",
+   "chars": 420
+  },
+  {
+   "file": "p0304.txt",
+   "chars": 882
+  },
+  {
+   "file": "p0305.txt",
+   "chars": 789
+  },
+  {
+   "file": "p0306.txt",
+   "chars": 773
+  },
+  {
+   "file": "p0307.txt",
+   "chars": 844
+  },
+  {
+   "file": "p0308.txt",
+   "chars": 770
+  },
+  {
+   "file": "p0309.txt",
+   "chars": 914
+  },
+  {
+   "file": "p0310.txt",
+   "chars": 605
+  },
+  {
+   "file": "p0311.txt",
+   "chars": 864
+  },
+  {
+   "file": "p0312.txt",
+   "chars": 832
+  },
+  {
+   "file": "p0313.txt",
+   "chars": 508
+  },
+  {
+   "file": "p0314.txt",
+   "chars": 906
+  },
+  {
+   "file": "p0315.txt",
+   "chars": 454
+  },
+  {
+   "file": "p0316.txt",
+   "chars": 737
+  },
+  {
+   "file": "p0317.txt",
+   "chars": 839
+  },
+  {
+   "file": "p0318.txt",
+   "chars": 783
+  },
+  {
+   "file": "p0319.txt",
+   "chars": 915
+  },
+  {
+   "file": "p0320.txt",
+   "chars": 825
+  },
+  {
+   "file": "p0321.txt",
+   "chars": 795
+  },
+  {
+   "file": "p0322.txt",
+   "chars": 770
+  },
+  {
+   "file": "p0323.txt",
+   "chars": 813
+  },
+  {
+   "file": "p0324.txt",
+   "chars": 756
+  },
+  {
+   "file": "p0325.txt",
+   "chars": 816
+  },
+  {
+   "file": "p0326.txt",
+   "chars": 447
+  },
+  {
+   "file": "p0327.txt",
+   "chars": 499
+  },
+  {
+   "file": "p0328.txt",
+   "chars": 786
+  },
+  {
+   "file": "p0329.txt",
+   "chars": 688
+  },
+  {
+   "file": "p0330.txt",
+   "chars": 721
+  },
+  {
+   "file": "p0331.txt",
+   "chars": 745
+  },
+  {
+   "file": "p0332.txt",
+   "chars": 547
+  },
+  {
+   "file": "p0333.txt",
+   "chars": 744
+  },
+  {
+   "file": "p0334.txt",
+   "chars": 753
+  },
+  {
+   "file": "p0335.txt",
+   "chars": 690
+  },
+  {
+   "file": "p0336.txt",
+   "chars": 695
+  },
+  {
+   "file": "p0337.txt",
+   "chars": 642
+  },
+  {
+   "file": "p0338.txt",
+   "chars": 694
+  },
+  {
+   "file": "p0339.txt",
+   "chars": 693
+  },
+  {
+   "file": "p0340.txt",
+   "chars": 596
+  },
+  {
+   "file": "p0341.txt",
+   "chars": 500
+  },
+  {
+   "file": "p0342.txt",
+   "chars": 425
+  },
+  {
+   "file": "p0343.txt",
+   "chars": 868
+  },
+  {
+   "file": "p0344.txt",
+   "chars": 1308
+  },
+  {
+   "file": "p0345.txt",
+   "chars": 774
+  },
+  {
+   "file": "p0346.txt",
+   "chars": 738
+  },
+  {
+   "file": "p0347.txt",
+   "chars": 750
+  },
+  {
+   "file": "p0348.txt",
+   "chars": 93
+  },
+  {
+   "file": "p0349.txt",
+   "chars": 484
+  },
+  {
+   "file": "p0350.txt",
+   "chars": 752
+  },
+  {
+   "file": "p0351.txt",
+   "chars": 791
+  },
+  {
+   "file": "p0352.txt",
+   "chars": 774
+  },
+  {
+   "file": "p0353.txt",
+   "chars": 781
+  },
+  {
+   "file": "p0354.txt",
+   "chars": 849
+  },
+  {
+   "file": "p0355.txt",
+   "chars": 891
+  },
+  {
+   "file": "p0356.txt",
+   "chars": 792
+  },
+  {
+   "file": "p0357.txt",
+   "chars": 761
+  },
+  {
+   "file": "p0358.txt",
+   "chars": 788
+  },
+  {
+   "file": "p0359.txt",
+   "chars": 756
+  },
+  {
+   "file": "p0360.txt",
+   "chars": 762
+  },
+  {
+   "file": "p0361.txt",
+   "chars": 830
+  },
+  {
+   "file": "p0362.txt",
+   "chars": 726
+  },
+  {
+   "file": "p0363.txt",
+   "chars": 819
+  },
+  {
+   "file": "p0364.txt",
+   "chars": 783
+  },
+  {
+   "file": "p0365.txt",
+   "chars": 864
+  },
+  {
+   "file": "p0366.txt",
+   "chars": 814
+  },
+  {
+   "file": "p0367.txt",
+   "chars": 881
+  },
+  {
+   "file": "p0368.txt",
+   "chars": 873
+  },
+  {
+   "file": "p0369.txt",
+   "chars": 857
+  },
+  {
+   "file": "p0370.txt",
+   "chars": 819
+  },
+  {
+   "file": "p0371.txt",
+   "chars": 765
+  },
+  {
+   "file": "p0372.txt",
+   "chars": 806
+  },
+  {
+   "file": "p0373.txt",
+   "chars": 847
+  },
+  {
+   "file": "p0374.txt",
+   "chars": 823
+  },
+  {
+   "file": "p0375.txt",
+   "chars": 819
+  },
+  {
+   "file": "p0376.txt",
+   "chars": 862
+  },
+  {
+   "file": "p0377.txt",
+   "chars": 795
+  },
+  {
+   "file": "p0378.txt",
+   "chars": 779
+  },
+  {
+   "file": "p0379.txt",
+   "chars": 815
+  },
+  {
+   "file": "p0380.txt",
+   "chars": 776
+  },
+  {
+   "file": "p0381.txt",
+   "chars": 779
+  },
+  {
+   "file": "p0382.txt",
+   "chars": 771
+  },
+  {
+   "file": "p0383.txt",
+   "chars": 772
+  },
+  {
+   "file": "p0384.txt",
+   "chars": 811
+  },
+  {
+   "file": "p0385.txt",
+   "chars": 765
+  },
+  {
+   "file": "p0386.txt",
+   "chars": 766
+  },
+  {
+   "file": "p0387.txt",
+   "chars": 707
+  },
+  {
+   "file": "p0388.txt",
+   "chars": 773
+  },
+  {
+   "file": "p0389.txt",
+   "chars": 814
+  },
+  {
+   "file": "p0390.txt",
+   "chars": 836
+  },
+  {
+   "file": "p0391.txt",
+   "chars": 779
+  },
+  {
+   "file": "p0392.txt",
+   "chars": 794
+  },
+  {
+   "file": "p0393.txt",
+   "chars": 783
+  },
+  {
+   "file": "p0394.txt",
+   "chars": 839
+  },
+  {
+   "file": "p0395.txt",
+   "chars": 856
+  },
+  {
+   "file": "p0396.txt",
+   "chars": 888
+  },
+  {
+   "file": "p0397.txt",
+   "chars": 796
+  },
+  {
+   "file": "p0398.txt",
+   "chars": 787
+  },
+  {
+   "file": "p0399.txt",
+   "chars": 663
+  },
+  {
+   "file": "p0400.txt",
+   "chars": 533
+  },
+  {
+   "file": "p0401.txt",
+   "chars": 507
+  },
+  {
+   "file": "p0402.txt",
+   "chars": 839
+  },
+  {
+   "file": "p0403.txt",
+   "chars": 857
+  },
+  {
+   "file": "p0404.txt",
+   "chars": 504
+  },
+  {
+   "file": "p0405.txt",
+   "chars": 503
+  },
+  {
+   "file": "p0406.txt",
+   "chars": 895
+  },
+  {
+   "file": "p0407.txt",
+   "chars": 843
+  },
+  {
+   "file": "p0408.txt",
+   "chars": 843
+  },
+  {
+   "file": "p0409.txt",
+   "chars": 820
+  },
+  {
+   "file": "p0410.txt",
+   "chars": 841
+  },
+  {
+   "file": "p0411.txt",
+   "chars": 937
+  },
+  {
+   "file": "p0412.txt",
+   "chars": 852
+  },
+  {
+   "file": "p0413.txt",
+   "chars": 274
+  },
+  {
+   "file": "p0414.txt",
+   "chars": 804
+  },
+  {
+   "file": "p0415.txt",
+   "chars": 882
+  },
+  {
+   "file": "p0416.txt",
+   "chars": 828
+  },
+  {
+   "file": "p0417.txt",
+   "chars": 839
+  },
+  {
+   "file": "p0418.txt",
+   "chars": 846
+  },
+  {
+   "file": "p0419.txt",
+   "chars": 826
+  },
+  {
+   "file": "p0420.txt",
+   "chars": 821
+  },
+  {
+   "file": "p0421.txt",
+   "chars": 841
+  },
+  {
+   "file": "p0422.txt",
+   "chars": 818
+  },
+  {
+   "file": "p0423.txt",
+   "chars": 857
+  },
+  {
+   "file": "p0424.txt",
+   "chars": 822
+  },
+  {
+   "file": "p0425.txt",
+   "chars": 454
+  },
+  {
+   "file": "p0426.txt",
+   "chars": 574
+  },
+  {
+   "file": "p0427.txt",
+   "chars": 500
+  },
+  {
+   "file": "p0428.txt",
+   "chars": 481
+  },
+  {
+   "file": "p0429.txt",
+   "chars": 69
+  }
+ ]
+}

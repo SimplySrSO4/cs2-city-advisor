@@ -1,0 +1,13 @@
+# 出版书籍的整页扫描件（514 张 JPEG，约 99 MB）
+# 纯 OCR 中间产物：对应的识别文本已在 extract/ocr/ 与 extract/*-full.clean.txt 入库，
+# 这里排除以免把受版权保护的整页扫描公开发布。
+skills/cities-skylines-2-city-advisor/extract/img/
+
+# Python 缓存
+__pycache__/
+*.py[cod]
+
+# 系统 / 编辑器
+Thumbs.db
+Desktop.ini
+.DS_Store

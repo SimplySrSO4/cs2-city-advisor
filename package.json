@@ -1,0 +1,41 @@
+{
+  "name": "csl2-city-advisor",
+  "version": "0.1.0",
+  "description": "DSH plugin for the Cities: Skylines II city advisor: a visual RCIO demand-bar + unemployment slider panel collected through the csl2_city_readings tool before the analysis, plus the bundled cities-skylines-2-city-advisor skill.",
+  "type": "module",
+  "main": "./lib/index.js",
+  "files": [
+    "lib",
+    "skills",
+    "cordis.patch.yml"
+  ],
+  "exports": {
+    ".": "./lib/index.js",
+    "./client": {
+      "default": "./lib/client.js"
+    },
+    "./package.json": "./package.json"
+  },
+  "keywords": [
+    "dsh",
+    "dsh-plugin",
+    "deepseek-harness",
+    "cities-skylines-2",
+    "city-advisor",
+    "rcio"
+  ],
+  "engines": {
+    "node": ">=22.19.0"
+  },
+  "dsh": {
+    "bundle": {
+      "patch": "./cordis.patch.yml"
+    },
+    "client": {
+      "platform": "web",
+      "inject": [
+        "@deepseek-ai/dsh-client-ui-tool"
+      ]
+    }
+  }
+}

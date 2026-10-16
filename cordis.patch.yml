@@ -1,0 +1,5 @@
+# csl2-city-advisor: Host half (csl2_city_readings tool + skill provider + /csl2-readings endpoint)
+# plus the Web client half (RCIO demand-bar + unemployment slider panel).
+- insert:
+    - id: csl2-city-advisor
+      name: 'csl2-city-advisor'
